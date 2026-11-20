@@ -1,0 +1,21 @@
+:root {
+  --color-cream: #fff5eb;
+  --color-cream-68: rgba(255, 245, 235, 0.68);
+  --color-wine: #6f1730;
+  --color-teal: #0c3537;
+  --color-gold: #d6a75c;
+  --color-sand-border: #e4c69f;
+  --color-warm-brown: #574a46;
+  --color-muted-rose: #89656a;
+  --color-page-background: #222426;
+  --color-hero-fallback: #55595a;
+  --color-white: #fff;
+  --color-transparent: transparent;
+  --color-cream-20: rgba(255, 245, 235, 0.2);
+  --color-cream-92: rgba(255, 245, 235, 0.92);
+  --color-overlay-88: rgba(13, 15, 16, 0.88);
+  --color-overlay-62: rgba(19, 20, 21, 0.62);
+  --color-overlay-15: rgba(20, 20, 20, 0.15);
+  --color-overlay-16: rgba(10, 11, 12, 0.16);
+  --color-overlay-68: rgba(10, 11, 12, 0.68);
+}
